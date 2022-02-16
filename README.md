@@ -38,4 +38,6 @@ https://colab.research.google.com/drive/10wilXQdO5nGC9V09WWekQS1uaN64PmO_?usp=sh
 | Epiblast | 205258| 2.92% |
 | ICM | 377882 | 9.08% |
 
-
+# bash-срипт для выполнения дедупликации для всех образцов одновременно
+>> Используем ls -1 для получение нужных файлов, далее передаем эти файлы по одному при помощи xargs
+>> ! ls -1 *1_bismark_bt2_pe* | xargs -tI{} deduplicate_bismark  --bam  --paired -o s_{} {}
