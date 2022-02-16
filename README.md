@@ -55,3 +55,12 @@ ICM
 Видно, что уровень метелирования CpG у певрого образца порядка 40%, у второго вырастает до 77 и затем у последнего падает до 23
 
 
+# Частота распредения метилирования
+8 cell
+>> ![image](https://user-images.githubusercontent.com/65420132/154375626-31c6c411-6830-40ca-a7fc-2f16c3d0dfb6.png)
+
+Epiblast
+>> ![image](https://user-images.githubusercontent.com/65420132/154375677-e3cf7e61-6ca4-48f7-bed0-4e2fe7292616.png)
+
+ICM
+>>![image](https://user-images.githubusercontent.com/65420132/154375690-7f90f7d0-4646-4e46-902a-b852d0373009.png)
