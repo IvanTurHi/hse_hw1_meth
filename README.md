@@ -1,5 +1,8 @@
 # hse_hw1_meth
 
+# Ссылка на гугл колаб
+https://colab.research.google.com/drive/10wilXQdO5nGC9V09WWekQS1uaN64PmO_?usp=sharing
+
 # 1 Проведем сравнение отчетов fastqc одного из наших образцов(8 cell) и образца бактерии из одного из прошлых дз  
 
 Общая статистика
