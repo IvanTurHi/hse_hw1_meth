@@ -64,3 +64,10 @@ Epiblast
 
 ICM
 >>![image](https://user-images.githubusercontent.com/65420132/154375690-7f90f7d0-4646-4e46-902a-b852d0373009.png)
+
+
+# Уровень метилирования образцов(8 cell, Epiblast, ICM)
+![image](https://user-images.githubusercontent.com/65420132/154376122-27a5c131-3ccd-4400-98a2-83fed1d60547.png)
+
+# Покрытие образцов(8 cell, Epiblast, ICM)
+![image](https://user-images.githubusercontent.com/65420132/154376288-3ddf5727-66a9-490e-9d1c-1bd821525577.png)
