@@ -41,3 +41,15 @@ https://colab.research.google.com/drive/10wilXQdO5nGC9V09WWekQS1uaN64PmO_?usp=sh
 # bash-срипт для выполнения дедупликации для всех образцов одновременно
 >> Используем ls -1 для получение нужных файлов, далее передаем эти файлы по одному при помощи xargs  
 >> ! ls -1 *1_bismark_bt2_pe* | xargs -tI{} deduplicate_bismark  --bam  --paired -o s_{} {}
+
+# Анализ M-bias plot
+8 cell  
+>>![image](https://user-images.githubusercontent.com/65420132/154369366-d9eb1ffd-a1c6-4824-a34a-a1373ccc5bd8.png)
+Epiblast  
+>> ![image](https://user-images.githubusercontent.com/65420132/154369479-2d6354e3-9723-488c-b679-cfb2133cb9ad.png)
+ICM  
+>>![image](https://user-images.githubusercontent.com/65420132/154369523-a52b705c-1f36-4923-9ba6-18baa5ac811f.png)
+
+Видно, что уровень метелирования CpG у певрого образца порядка 40%, у второго вырастает до 77 и затем у последнего падает до 23
+
+
